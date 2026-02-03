@@ -1,4 +1,4 @@
-   <!-- MULTILINGUAL NAME ANIMATION (Left-Aligned, No Big Gap) -->           
+<!-- MULTILINGUAL NAME ANIMATION (Left-Aligned, No Big Gap) -->           
 <div style="text-align: left; margin-left: 40px; margin-top: 20px; margin-bottom: 5px;">              
 <img            
     src="https://readme-typing-svg.herokuapp.com?          font=Orbitron&weight=900&size=22&duration=2500&pause=800&color=00D9FF&background=00000000&vCenter=true&width=800&height=45&lines=NITIN+SAHU;नितिन+साहू;尼丁+萨胡;ニティン+サフ;니틴+사후;Нитин+Саху" 
@@ -120,10 +120,6 @@
     </tr>
   </table>
 </div>
-
-
-
-
 </div>
 
  
@@ -134,7 +130,7 @@
 
 
 
-<!-- Footer -->
+<!-- Foooter -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=400&size=12&duration=100&pause=0&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=01001000+01100101+01101100+01101100+01101111+01010111+01101111+01110010+01101100+01100100;11000110+10101010+11110000+01010101+11001100+00110011+10101010+11110000;01000110+01110101+01101100+01101100+01010011+01110100+01100001+01100011+01101011;01000100+01100101+01110110+01100101+01101100+01101111+01110000+01100101+01110010" alt="Matrix Code"/>
 </div>
